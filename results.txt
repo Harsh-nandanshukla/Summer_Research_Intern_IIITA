@@ -1,0 +1,1 @@
+Test | Epoch: 1 | Loss: 2.280 | Acc: 46.457

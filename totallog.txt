@@ -1,0 +1,1 @@
+Epoch: 100, Final Accuracy of exp0: 0.000

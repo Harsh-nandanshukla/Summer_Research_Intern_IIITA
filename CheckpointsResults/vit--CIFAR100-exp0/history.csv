@@ -1,0 +1,29 @@
+CIFAR100
+Creating model: vit--CIFAR100-exp0
+Number of params: 2,709,796
+Initial Learning Rate: 0.003000
+Start training for 100 epochs
+Batch Size is 128.
+Stochastic depth(0.1) used 
+CIFAR100
+Creating model: vit--CIFAR100-exp0
+Number of params: 2,709,796
+Initial Learning Rate: 0.003000
+Start training for 100 epochs
+Batch Size is 128.
+Stochastic depth(0.1) used 
+Best Top-1: 74.36, Final Top-1: 74.36
+CIFAR100
+Creating model: vit--CIFAR100-exp0
+Number of params: 2,709,796
+Initial Learning Rate: 0.003000
+Start training for 100 epochs
+Batch Size is 128.
+Stochastic depth(0.1) used 
+CIFAR100
+Creating model: vit--CIFAR100-exp0
+Number of params: 2,709,796
+Initial Learning Rate: 0.003000
+Start training for 100 epochs
+Batch Size is 128.
+Stochastic depth(0.1) used 
