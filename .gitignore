@@ -1,0 +1,3 @@
+*.pth
+datasets/cifar-100/cifar-100-python/train
+datasets/cifar-100/cifar-100-python.tar.gz
