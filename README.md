@@ -52,7 +52,7 @@ The goal of this project was to design a deep learning framework that is robust 
 - **Output Prefix**: `cleanreal_`
 - **Results**: Clean: 30–31%, Perturbed: 26–27%
 
-## Part 8: New Pipeline (Under Development)
+## Part 8: New Pipeline 
 - **Script**: `gen_new.py`
 - **Concept**:
   - Input: `Ip = I + P`
@@ -91,5 +91,3 @@ The goal of this project was to design a deep learning framework that is robust 
 """
 
 
-
-readme_path
