@@ -72,7 +72,7 @@ The goal of this project was to design a deep learning framework that is robust 
 - **Concept**:
   - Apply Low Pass and High Pass filters to clean and perturbed test sets.
   - Compute correlation for L & H (clean), Lp & Hp (perturbed), and across clean/perturbed.
-  - Plot histograms to analyze differences and guide future improvements.
+  - To work on the immages created by  Low Pass and High Pass filters by observing their correlations and discoverinng the archtecture to acheive the aim.
 
 ## Tools & Frameworks Used
 - Python, PyTorch, NumPy, Matplotlib, Pandas
@@ -80,10 +80,9 @@ The goal of this project was to design a deep learning framework that is robust 
 
 ## Conclusion & Future Work
 - GAN-based approach helps in restoring perturbed images to boost ViT accuracy.
-- Future work includes completing the new perturbation learning pipeline and analyzing frequency-domain relationships to enhance robustness.
+- Future work includes completing the new perturbation learning pipeline .
 
 ## Team
 - This project was completed independently during a summer research internship.
-"""
 
 
