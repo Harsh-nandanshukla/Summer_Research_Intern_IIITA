@@ -1,7 +1,3 @@
-from pathlib import Path
-
-# Define the content of the README file
-readme_content = """
 # Exploring GAN-based Defense Strategy for Adversarial Images using Vision Transformer
 
 ## Objective
