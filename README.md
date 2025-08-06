@@ -64,7 +64,7 @@ The goal of this project was to design a deep learning framework that is robust 
   - Clean `I`, Perturbed `Ip`
   - Generator predicts `P1`, `P2`
   - Recover: `I1 = I - P1`, `I2 = Ip - P2`
-  - Evaluate on ViT
+  - Evaluate I1 and I2 on frozen pre-trained ViT
   - Outputs: `new_test.csv`, `new_test_accuracy_bar_plot.png`, `new_test_accutrcy_over_batches_plot.png`
 
 ## Part 9: Correlation Analysis (Planned)
@@ -72,7 +72,7 @@ The goal of this project was to design a deep learning framework that is robust 
 - **Concept**:
   - Apply Low Pass and High Pass filters to clean and perturbed test sets.
   - Compute correlation for L & H (clean), Lp & Hp (perturbed), and across clean/perturbed.
-  - To work on the immages created by  Low Pass and High Pass filters by observing their correlations and discoverinng the archtecture to acheive the aim.
+  - To work on the images created by  Low Pass and High Pass filters by observing their correlations and discoverinng the archtecture to acheive the aim.
 
 ## Tools & Frameworks Used
 - Python, PyTorch, NumPy, Matplotlib, Pandas
